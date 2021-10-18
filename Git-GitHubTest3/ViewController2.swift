@@ -20,4 +20,8 @@ class ViewController2: UIViewController {
     func xx() {
         print("7777777")
     }
+    
+    func bbb(){
+        print("bbbbb")
+    }
 }
