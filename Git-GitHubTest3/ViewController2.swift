@@ -31,4 +31,8 @@ class ViewController2: UIViewController {
     override func paste(itemProviders: [NSItemProvider]) {
         print("fuxie ")
     }
+    
+    func dd() {
+        print("fuxiele ddd")
+    }
 }
