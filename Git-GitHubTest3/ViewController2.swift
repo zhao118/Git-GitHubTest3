@@ -24,4 +24,7 @@ class ViewController2: UIViewController {
     func bbb(){
         print("bbbbb")
     }
+    func ccc(){
+        print("ccc")
+    }
 }
