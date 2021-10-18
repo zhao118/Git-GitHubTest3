@@ -13,7 +13,7 @@ class ViewController2: UIViewController {
         super.viewDidLoad()
 
         //你好
-        print("你好吗")
+       print("牛牛牛牛牛女女女女女女女女女女女女")
     }
     
 
